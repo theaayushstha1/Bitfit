@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomBottomNavigationStyle" parent="Widget.MaterialComponents.BottomNavigationView">
+        <item name="itemIconTint">@color/custom_icon_color</item>
+        <item name="itemTextColor">@color/custom_text_color</item>
+        <item name="backgroundTint">@color/custom_background_color</item>
+    </style>
+</resources>

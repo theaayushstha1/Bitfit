@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="custom_icon_color">#FFFFFF</color> <!-- White icons -->
+    <color name="custom_text_color">#FF5722</color> <!-- Orange text -->
+    <color name="custom_background_color">#3F51B5</color> <!-- Blue background -->
+</resources>
