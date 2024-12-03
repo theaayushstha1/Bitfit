@@ -27,17 +27,6 @@ The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
 
-## Video Walkthrough
-
-<div>
-    <a href="https://www.loom.com/share/dc74fe9266c24126afd3b4d3fbd2952d">
-      <p>zoneal03/BitFitpart_1 - Watch Video</p>
-    </a>
-    <a href="https://www.loom.com/share/dc74fe9266c24126afd3b4d3fbd2952d">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/dc74fe9266c24126afd3b4d3fbd2952d-dc5443ce3c9be76d-full-play.gif">
-    </a>
-  </div>
-## Notes
 
 Describe any challenges encountered while building the app.
 
